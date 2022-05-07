@@ -1,7 +1,7 @@
 ## [**Stony Brook University**](https://www.stonybrook.edu/)
 
 - [**Department of Applied Mathematics and Statistics**](https://www.stonybrook.edu/commcms/ams/)
-  - [**Bachelor of Science in Applied Mathematics Statistics**](https://www.stonybrook.edu/commcms/ams/undergraduate/)
+  - [**Bachelor of Science in Applied Mathematics and Statistics**](https://www.stonybrook.edu/commcms/ams/undergraduate/)
 
 ### Requirements for the Major
 
